@@ -1,9 +1,7 @@
 # NBA Combine Stats SQL Project
 
 ## Introduction
-This project analyzes NBA draft combine statistics to uncover insights about player performance and draft outcomes. 
-The analysis includes correlation studies, grouping by draft pick ranges, and average performance metrics by player 
-attributes.
+This project analyzes NBA draft combine statistics to uncover insights about player performance and draft outcomes. The analysis includes correlation studies, grouping by draft pick ranges, and average performance metrics by player attributes.
 
 
 ## Data Sources
@@ -22,3 +20,7 @@ Note: These Datasets where precleaned in Excel, with some final changes made on 
 ## Analysis
 1. How do physical attributes (height, weight, wingspan, vertical leap, etc.) correlate with draft position?
 2. How have player physical characteristics evolved over different seasons? Are players getting taller, heavier, or more agile?
+3. What are the typical physical attributes for different positions (e.g., guards vs. forwards vs. centers)?
+4. Is there a correlation between body fat percentage and a player’s agility or sprint times?
+5. Do players with longer wingspans and greater hand size perform better or worse in the bench press?
+6. Can we predict a player’s draft success based on their combine stats?
